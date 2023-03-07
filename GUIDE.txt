@@ -1,0 +1,16 @@
+Start from Main_App. You will have to login
+If you dont have account. Then create use Signup
+
+So after logging in, Gesture Recognition system will start
+
+#####################
+You can move the cursor around by using your index finger while keeping rest of the fingers closed
+if you want to do single click, just bring index and middle finger close to each other
+if you want to do double click, show first three fingers
+
+Now there are three options which can be seen in GUI.
+If you want to open X_Ray Folder Just show him little finger, while keeping other closed
+If you want to open Medical Images Folder Just show him little and ring finger, while keeping other closed
+If you want to open Emergency Folder Just show him little ,ring and middle finger, while keeping other closed
+If you want to open Patients Records Folder Just show him  four fingers, while keeping thumb closed
+
